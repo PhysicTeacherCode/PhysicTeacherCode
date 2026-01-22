@@ -1,6 +1,6 @@
 <h1 align='center'>Prazer! 👋 Sou o Diego! 😁</h1>
 
-<h2 align='center'>Um professor de Física, aspirante da carreira de dados, aprendendo todos os dias!</h2>
+<p align='center'>Um professor de Física, aspirante da carreira de dados, aprendendo todos os dias!</p>
 
 <p align='center'>Gostou? Entre em contato 😉👍</p>
 
